@@ -11,4 +11,4 @@ On my way home, taking advantage of one of many Spanish public holidays, I decid
 
 After hoping off the bus and walking straight down to the beach, I had wandered a bit to find information. Not much though I was still near the wide beach of Roses. Adjusting the stripes of my backpack I soon considered a great idea. Why not starting the hike **barefoot**? Not really a question... My shoes in my hand, I started to walk in the sand. I personally love the feeling although it makes it a bit more difficult to walk. All around me people where enjoying a sunny day at the beach, beach volley, frisbee, and other sand activities. After around 45 minutes I reached the end of the beach. I kept walking barefoot mostly because I really enjoy it and partly because of laziness. Unfortunately after another 20 minutes, the asphalt trail turned into a dirt trail and the proximity of spiky grasses forced me to pause and put my shoes back on.
 
-![photo]({filename}/images/02-map-cadaques.jpg){: class="img-responsive" title="Cap de Creus Map" }
+[![photo]({filename}/images/02-map-cadaques.jpg){: class="img-responsive" title="Cap de Creus Map" }]({filename}/images/02-map-cadaques.jpg)
