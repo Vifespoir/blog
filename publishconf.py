@@ -13,9 +13,12 @@ from pelicanconf import *
 SITEURL = 'https://etiennepouget.com'
 RELATIVE_URLS = False
 
+# Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing

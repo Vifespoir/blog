@@ -7,7 +7,7 @@ SITENAME = 'My Blog'
 
 OUTPUT_PATH = '/home/vifespoir/github/blog'
 PATH = "content"
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'cv']
 
 THEME_STATIC_DIR = 'static'
 
@@ -20,19 +20,13 @@ DEFAULT_LANG = 'en'
 
 DISPLAY_PAGES_ON_MENU = True
 
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
 # Projects
 LINKS = (('Name Generator', 'https://name-generator.etiennepouget.com'),
          ('Machine Learning', 'https://mlearning.etiennepouget.com'))
 
 # Social widget
-SOCIAL = (('LinkedIn', 'https://linkedin.com/in/étienne-pouget-7912295b'),
+SOCIAL = (('Resume', 'cv/en.html'),
+          ('LinkedIn', 'https://linkedin.com/in/étienne-pouget-7912295b'),
           ('Github', 'https://github.com/Vifespoir'),
           ('Twitter', 'https://twitter.com/EPouget'))
 
@@ -44,3 +38,15 @@ PLUGINS = ["photos"]
 # PHOTO_LIBRARY = "/home/vifespoir/github/pelican-blog/content/images/"
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+# Add cv
+READERS = {"html": None}
+STATIC_PATHS = [
+    'images',
+    'cv',
+    ]
+EXTRA_PATH_METADATA = {
+    'cv/cv-en-2016-09-5.html': {'path': 'cv/en.html'},
+    'cv/cv-es-2016-09-5.html': {'path': 'cv/es.html'},
+    'cv/cv-fr-2016-09-5.html': {'path': 'cv/fr.html'}
+    }
