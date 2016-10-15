@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+SITEURL = 'http://localhost:8000'
+
 AUTHOR = 'Etienne'
 SITENAME = 'My Blog'
 
