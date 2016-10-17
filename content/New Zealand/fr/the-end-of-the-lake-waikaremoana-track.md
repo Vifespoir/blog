@@ -33,11 +33,9 @@ premiers chuchotements et l'odeur du thé mis à infusé gardait ma tête au
 chaud tandis que mes doigts fébriles s'emparaient d'un feutre. Voilà mes
 pensées intimes d'un matin à la montagne :
 
-1.  beautiful ascent, snow, trees, parasites, lake; little hard because
-    of speed
-2.  rolling cigarettes without filter, highly conscient of the matter of
-    the world, gire-up
-3.  réflexion métaphysiques
+1. beautiful ascent, snow, trees, parasites, lake; little hard because of speed
+2. rolling cigarettes without filter, highly conscient of the matter of the world, gire-up
+3. réflexion métaphysiques
 
 Curieux cette deuxième idée, d'où sort-elle ? d'un livre je crois mais
 aussi de quelqu'un que j'ai rencontré, indubitablement. Amusant que de

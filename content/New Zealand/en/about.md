@@ -1,9 +1,10 @@
-Title: A propos de l'auteur / About me
+Title: About me
 Date: 2011-07-31 20:35
 Author: Etienne
 Slug: about
 Status: published
 Lang: en
+Category: New Zealand
 
 [![]({photo}uploads/2011/07/portrait.jpg "portrait"){.alignleft .size-full .wp-image-157 width="819" height="567"}]({photo}uploads/2011/07/portrait.jpg)
 

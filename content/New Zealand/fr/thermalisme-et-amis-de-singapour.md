@@ -2,14 +2,14 @@ Title: Thermalisme et amis de Singapour !
 Date: 2011-10-05 00:04
 Author: Etienne
 Category: New Zealand
-Slug: thermalisme-singapourian-friends
+Slug: hot-springs-and-singapourian-friends
 Status: published
 Gallery: {photo}/taupo{taupo}, {photo}/whakarewarewa{whakarewarewa}
 Tags: Dernières nouvelles
 Image: {photo}uploads/2011/10/Taupo_friends-4-Copier.jpg
 Lang: fr
 
-{photo}/taupo{taupo}
+{photo}/taupo
 
 Après avoir marché autour de Waimoto et appris le Haka, le bus m'a
 conduit à un petit village Maori pas loin de Rotorua. Dans cette région

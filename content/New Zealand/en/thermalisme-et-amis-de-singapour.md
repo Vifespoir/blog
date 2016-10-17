@@ -1,8 +1,8 @@
-Title: Thermalisme et amis de Singapour !
+Title: Hot Springs and Singaporian friends!
 Date: 2011-10-05 00:04
 Author: Etienne
 Category: New Zealand
-Slug: thermalisme-singapourian-friends
+Slug: hot-springs-and-singapourian-friends
 Status: published
 Gallery: {photo}/taupo{taupo}, {photo}/whakarewarewa{whakarewarewa}
 Tags: Dernières nouvelles
